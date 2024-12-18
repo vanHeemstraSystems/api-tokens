@@ -7,7 +7,7 @@ api-tokens
 | 002 | GitHub | Hetzner API Token | | ?? | ?? | 31 December 2024 | | HETZNER_API_TOKEN |
 | 003 | [DockerHub](https://app.docker.com) | Github CI Workflow | Read, Write, Delete | 05 December 2024 | 13 December 2024 | 05 December 2025 | Active | GITHUB_CI_WORKFLOW |
 | 004 | [DockerHub](https://app.docker.com) | default personal access token | Read, Write, Delete | 30 july 2022 | Dec 13, 2024 | Never | Active | default-personal-access-token |
-| 005 | [Nabu Casa]() | avocado-bacon.agility-game.com | | ?? | Active | 23 December 2024 | | 9d.....ui.nabu.casa <br/> You do not need to do anything. The certificates for your instance will renew automatically as long as your subscription is active. |
+| 005 | [Nabu Casa]() | avocado-bacon.agility-game.com | | ?? | | 23 December 2024 | Active | 9d.....ui.nabu.casa <br/> You do not need to do anything. The certificates for your instance will renew automatically as long as your subscription is active. |
 
 ## 100 - Introduction
 
