@@ -11,7 +11,7 @@ api-tokens
 | 006 | [Hetzner Cloud](https://console.hetzner.cloud) | coder | Read, Write | 16 December 2024 | ?? | 31 December 2024 ? | Active | API Token on Hetzner Cloud that facilitates the deployment of Coder to Hetzner Cloud |
 | 007 | GitHub | Upptime_Personal_Access_Token | | Mon, Apr 29 2024 | Last used within the last 7 months | Expires Tue, Dec 31 2025 | Expiring | Renew when due |
 | 008 | GitHub | Agility-Game-HACS-PAT | | ?? | Never used | Expires Wed, Dec 31 2025 | Expiring | Renew when due |
-| 009 | GitHub | Agility_Game_Upptime_PAT | | ?? | Never used | Expires Tue, Dec 31 2024 | Expiring | Renew |
+| 009 | GitHub | Agility_Game_Upptime_PAT | | ?? | Never used | Expires Wed, Dec 31 2025 | Expiring | Renew when due |
 | 010 | GitHub | Agility-Game Home PAT | | ?? | Last used within the last 11 months | Expires Tue, Dec 31 2024 | Expiring | Renew |
 | 011 | GitHub | Agility-Game Kener API_TOKEN | | ?? | Never used | Expires Tue, Dec 31 2024 | Expiring | Renew |
 | 012 | GitHub | Agility-Game Kener GH_TOKEN | | ?? | Last used within the last 7 months | Expires Tue, Dec 31 2024 | Expiring | Renew |
