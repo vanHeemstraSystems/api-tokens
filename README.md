@@ -13,7 +13,7 @@ api-tokens
 | 008 | GitHub | Agility-Game-HACS-PAT | | ?? | Never used | Expires Wed, Dec 31 2025 | Expiring | Renew when due |
 | 009 | GitHub | Agility_Game_Upptime_PAT | | ?? | Never used | Expires Wed, Dec 31 2025 | Expiring | Renew when due |
 | 010 | GitHub | Agility-Game Home PAT | | ?? | Last used within the last 11 months | Expires Wed, Dec 31 2025 | Expiring | Renew when due |
-| 011 | GitHub | Agility-Game Kener API_TOKEN | | ?? | Never used | Expires Tue, Dec 31 2024 | Expiring | Renew |
+| 011 | GitHub | Agility-Game Kener API_TOKEN | | ?? | Never used | Expires Wed, Dec 31 2025 | Expiring | Renew when due |
 | 012 | GitHub | Agility-Game Kener GH_TOKEN | | ?? | Last used within the last 7 months | Expires Tue, Dec 31 2024 | Expiring | Renew |
 
 ## 100 - Introduction
