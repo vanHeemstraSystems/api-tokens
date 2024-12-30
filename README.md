@@ -9,7 +9,6 @@ api-tokens
 | 004 | [DockerHub](https://app.docker.com) | default personal access token | Read, Write, Delete | 30 july 2022 | Dec 13, 2024 | Never | Active | default-personal-access-token |
 | 005 | [Nabu Casa]() | avocado-bacon.agility-game.com | | ?? | | 23 December 2024 | Active | 9d.....ui.nabu.casa <br/> You do not need to do anything. The certificates for your instance will renew automatically as long as your subscription is active. |
 | 006 | [Hetzner Cloud](https://console.hetzner.cloud) | coder | Read, Write | 16 December 2024 | ?? | 31 December 2024 ? | Active | API Token on Hetzner Cloud that facilitates the deployment of Coder to Hetzner Cloud |
-
 | 007 | GitHub | Upptime_Personal_Access_Token | | ?? | Last used within the last 7 months | Expires Tue, Dec 31 2024 | Expiring | Renew |
 | 008 | GitHub | Agility-Game-HACS-PAT | | ?? | Never used | Expires Tue, Dec 31 2024 | Expiring | Renew |
 | 009 | GitHub | Agility_Game_Upptime_PAT | | ?? | Never used | Expires Tue, Dec 31 2024 | Expiring | Renew |
